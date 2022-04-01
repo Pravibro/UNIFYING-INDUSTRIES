@@ -42,8 +42,8 @@
         "url": "https://fonts.googleapis.com/css?family=Inter:100,200,300,400,500,600,700,800,900"
       }
     ],
-    "favicon": false,
-    "mbrsiteDomain": "k2uvvmwuv4",
+    "favicon": "@PROJECT_PATH@/assets/images/whatsapp-image-2022-04-01-at-11.03.53-pm-removebg-preview_1.png",
+    "mbrsiteDomain": "uaiwuaaaow",
     "imageResize": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -59,8 +59,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "UNIFYING INDUSTRIES PVT LTD",
+        "meta_descr": "UNIFYING INDUSTRIES PRIVATE LIMITED is a Moradabad based company working towards excellence in the Factory and Manufacturing, and believe in pursuing business through innovation and technology. Our team comes with several years of industry experience, and comprise of a highly motivated set of specialists. We are a experienced, dedicated and energetic team, cognizant of the market and our customer's requirements. Keep scrolling to know more about our offerings and hear from our happy clients!",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
